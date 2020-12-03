@@ -23,3 +23,6 @@ frühestmöglich bei Störungen informiert werden, soll das System bei hoher CPU
 Benachrichtigung abschicken. Auf dem Server soll auch pünktlich zum Jahreswechsel ein kleines mehrteiliges Feuerwerk
 mit Musik gezeigt werden. Der Vorstand erstellt nun für die Mitglieder all diese notwendigen Anforderungen zusammen,
 damit diese ein Projekt erstellen und den Aufwand berechnen können
+
+###Einleitung
+
