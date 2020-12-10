@@ -61,3 +61,12 @@ Um das Spielerlebnis zu verbessern, Dinge zu vereinfachen und es den Moderatoren
 
 ##### <ins>Form/Diskussionsrunde</ins>
 Um eine enger Beziehung und einen Wissensaustausch zu schaffen, wollen wir zu dem einen neuen Discord-Server erstellen, in dem Fragen gestellt werden können oder einfach miteinander gespielt werden.
+
+### Fragenkatalog
+Um den Server möglichst lange am Leben zu halten müssen folgende Fragen beantwortet werden können:
+
+- **Was passiert bei einem Ausfall und wie schnell kann reagiert werden?**
+- **Wer und in welchen Abständen kümmert sich im Updates? Sei das für Plugins, Server engine, Betriebssystem, etc.**
+- **Wer darf und soll zum Server Zugang haben?**
+- **Was sind die langfristigen Ziele des Servers?**
+- **Welche Regeln gibt es für die Moderatoren und für die Mitspielenden?**
