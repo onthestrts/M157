@@ -36,28 +36,28 @@ Der bisherige Minecraft Server ist schon ein wenig in die Jahre gekommen und lä
 
 Für den neuen Server verfolgen wir vor allem die folgenden Ziele und möchten diese auch grösstenteils erfüllen, da die meisten davon wichtig und vor allem auch umsetzbar sind. Diese Ziele werden auch zukünftig das Spielerlebnis um einiges verbessern:
 
-##### Neuer Server
+##### <ins>Neuer Server</ins>
 In Zukunft soll es nicht mehr CraftBukkit 1.15.2 sondern Spigot 1.16.x sein (neuste Version). Dazu soll der Server wenn möglich und die Ressourcen das zulassen 30+ Slots für Spieler und Spielerinnen verfügbar sein. Was aber bleiben wird, ist die Map auf der gespielt wird. Diese soll kopiert und dann in die neue Version portiert werden.
 
 
-##### Monitoring
+##### <ins>Monitoring</ins>
 Um den Server besser im Blick zu behalten, soll es ein richtiges Monitoring geben. Es soll in zwei Kategorien aufgeteilt werden:
 Server (Hardware)
 Minecraft
 Es werden also beide Punkte unterschiedlich gemonitort und kontrolliert. So kann zum Beispiel bei einem Server-Absturz die Ursache geklärt werden.
 
 
-##### Performance
+##### <ins>Performance</ins>
 Wie bereits angetönt, sollte der neue Server mehr RAM und CPU Kerne von dem ESXi-System zugeteilt erhalten. So kann der Server mit Spielern drauf laufen und dabei ohne Probleme Backups gemacht werden. 
 
-##### Spielerlebnis
+##### <ins>Spielerlebnis</ins>
 Wir planen eine kleine Redstone-Konstruktion für die Spieler und Spielerinnen zu bauen, damit diese dadurch inspiriert werden und das Interesse geweckt wird.
 
-##### Intro
+##### <ins>Intro</ins>
 Um den Server besser zu promoten oder auch den Spieler und Spielerinnen vor zu stellen, wollen wir wenn möglich ein kurzes Video über den Server drehen.
 
-##### Erweiterungen/Plugins
+##### <ins>Erweiterungen/Plugins</ins>
 Um das Spielerlebnis zu verbessern, Dinge zu vereinfachen und es den Moderatoren des Servers einfacher zu machen, werden wir einige Plugins hinzufügen und diese Sinngemäss konfigurieren und verwalten.
 
-##### Form/Diskussionsrunde
+##### <ins>Form/Diskussionsrunde</ins>
 Um eine enger Beziehung und einen Wissensaustausch zu schaffen, wollen wir zu dem einen neuen Discord-Server erstellen, in dem Fragen gestellt werden können oder einfach miteinander gespielt werden.
