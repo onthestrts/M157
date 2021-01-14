@@ -28,6 +28,9 @@ Um den Server besser im Blick zu behalten, soll es ein richtiges Monitoring gebe
 Performance
 Wie bereits angetönt, sollte der neue Server mehr RAM und CPU Kerne von dem ESXi-System zugeteilt erhalten. So kann der Server mit Spielern drauf laufen und dabei ohne Probleme Backups gemacht werden.
 
+Feuerwerk
+Auf dem Server soll auch pünktlich zum Jahreswechsel ein kleines mehrteiliges Feuerwerk gezeigt werden.
+
 Spielerlebnis
 Wir planen eine kleine Redstone-Konstruktion für die Spieler und Spielerinnen zu bauen, damit diese dadurch inspiriert werden und das Interesse geweckt wird.
 
@@ -70,6 +73,15 @@ Total                           1075.-
 
 
 Vorgehen
+
+1. Hardware/Software bestellen
+2. Aufsetzen des Minecraft-Servers
+3. Monitoring, Plugins und Feuerwerk bereitstellen
+4. Performance sicherstellen
+5. Intro filmen
+6. Discord Server bereitstellen
+7. Übergabe von Server an Verantwortlichen vom Verein
+
 
 Risikoanalyse
 
