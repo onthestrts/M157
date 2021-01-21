@@ -95,16 +95,23 @@ Um eine enger Beziehung und einen Wissensaustausch zu schaffen, wollen wir zu de
 
 ### Risikoanalyse
 
+<ins>Projektumsetzung</ins>
 |Risiko                  | Eintrittswarscheinlichkeit    | Schadenshöhe                |
 |------------------------|-------------------------------|-----------------------------|
-|Ungenaue Schätzunen 
-bezüglich des Arbeitsaufwandes   | `2`                   |                         `3` |
+|Ungenaue Schätzunen bezüglich des Arbeitsaufwandes   | `2`                   |                         `3` |
 |Server aufsetzen        | `1`                           |                         `3` |
 |Monitoring einrichten   | `2`                           |                         `2` |
 |Redstone-Konstruktion   | `2`                           |                         `4` |
 |Intro                   | `2`                           |                         `5` |
 
-
+<ins>Während des Betriebs</ins>
+|Risiko                   | Eintrittswarscheinlichkeit    | Schadenshöhe                |
+|-------------------------|-------------------------------|-----------------------------|
+|Server Ausfall           | `2`                           |                         `5` |
+|Internetanbindung ausfall| `1`                           |                         `5` |
+|Server Lagging           | `3`                           |                         `2` |
+|Feuerwerksausfall        | `1`                           |                         `1` |
+|Monitoring ausfall       | `1`                           |                         `2` |
 
 
 #### Rahmenbedingung
