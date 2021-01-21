@@ -95,6 +95,8 @@ Um eine enger Beziehung und einen Wissensaustausch zu schaffen, wollen wir zu de
 
 ### Risikoanalyse
 
+Die Eintrittswahrscheinlichkeit und die Schadenshöhe werden von 1-5 gewertet. Wobei 1 sehr niedrig ist und 5 sehr hoch.
+
 <ins>Projektumsetzung</ins>
 |Risiko                  | Eintrittswarscheinlichkeit    | Schadenshöhe                |
 |------------------------|-------------------------------|-----------------------------|
