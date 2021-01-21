@@ -62,28 +62,24 @@ Um eine enger Beziehung und einen Wissensaustausch zu schaffen, wollen wir zu de
 
 **Hardware/Software**
 
-Server                  1x      500.-
-Windows Lizenz          1x      50.-
-
-Total Hard/Software             550.-
-
-Arbeitsaufwand
-
-Stundenansatz von 75.-
-
-Aufstellung Angebot     2h      150.-
-Server aufsetzen        1h      75.-
-Monitoring einrichten   1h      75.-
-Redstone-Konstruktion   0.5h    37.5
-Intro                   1.5h    112.5
-Erweiterungen/Plugins   0.5h    37.5  
-Discord-Server          0.5h    37.5
-
-Total Arbeitsaufwand    7h      525.-
-Total                           1075.-
+|**HW / SW          |Menge                          |Preis**                      |
+|-------------------|-------------------------------|-----------------------------|
+|Server             | 1                             | 500.-                       |
+|Windows Lizenz     | 1                             | 50.-                        |
+|-------------------|-------------------------------|-----------------------------|
+|Total                                           | 550.-                       |
 
 
-(Preis in CHF)
+|**Arbeitsaufwand        | Stunden in Anspr. genommen    | Stundensatz**               |
+|------------------------|-------------------------------|-----------------------------|
+|Aufstellung Angebot     | `2h`                          |                        60.- |
+|Server aufsetzen        | `1h`                          |                        75.- |
+|Monitoring einrichten   | `1h`                          |                        65.- |
+|Redstone-Konstruktion   | `2h`                          |                        85.- |
+|Intro                   | `1h'30`                       |                        75.- |
+|Erweiterungen / Plugins | `'30`                         |                        70.- |
+|------------------------|-------------------------------|-----------------------------|
+|**Total**                                                   |                     <ins>577.5.-</ins> |
 
 
 **<ins>Vorgehen</ins>**
@@ -98,5 +94,8 @@ Total                           1075.-
 
 
 ### Risikoanalyse
+
+
+
 
 #### Rahmenbedingung
