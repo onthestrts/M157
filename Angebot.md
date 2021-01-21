@@ -62,7 +62,7 @@ Um eine enger Beziehung und einen Wissensaustausch zu schaffen, wollen wir zu de
 
 **Hardware/Software**
 
-|**HW / SW          |Menge                          |Preis**                      |
+|HW / SW          |Menge                          |Preis                      |
 |-------------------|-------------------------------|-----------------------------|
 |Server             | 1                             | 500.-                       |
 |Windows Lizenz     | 1                             | 50.-                        |
@@ -70,7 +70,7 @@ Um eine enger Beziehung und einen Wissensaustausch zu schaffen, wollen wir zu de
 |Total                                           | 550.-                       |
 
 
-|**Arbeitsaufwand        | Stunden in Anspr. genommen    | Stundensatz**               |
+|Arbeitsaufwand        | Stunden in Anspr. genommen    | Stundensatz               |
 |------------------------|-------------------------------|-----------------------------|
 |Aufstellung Angebot     | `2h`                          |                        60.- |
 |Server aufsetzen        | `1h`                          |                        75.- |
