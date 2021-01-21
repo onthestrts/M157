@@ -62,15 +62,15 @@ Um eine enger Beziehung und einen Wissensaustausch zu schaffen, wollen wir zu de
 
 **Hardware/Software**
 
-|HW / SW          |Menge                          |Preis                      |
+|HW / SW            |Menge                          |Preis                        |
 |-------------------|-------------------------------|-----------------------------|
 |Server             | 1                             | 500.-                       |
 |Windows Lizenz     | 1                             | 50.-                        |
 |-------------------|-------------------------------|-----------------------------|
-|Total                                           | 550.-                       |
+|Total                                              | 550.-                       |
 
 
-|Arbeitsaufwand        | Stunden in Anspr. genommen    | Stundensatz               |
+|Arbeitsaufwand          | Stunden in Anspr. genommen    | Stundensatz                 |
 |------------------------|-------------------------------|-----------------------------|
 |Aufstellung Angebot     | `2h`                          |                        60.- |
 |Server aufsetzen        | `1h`                          |                        75.- |
@@ -79,7 +79,7 @@ Um eine enger Beziehung und einen Wissensaustausch zu schaffen, wollen wir zu de
 |Intro                   | `1h'30`                       |                        75.- |
 |Erweiterungen / Plugins | `'30`                         |                        70.- |
 |------------------------|-------------------------------|-----------------------------|
-|**Total**                                                   |                     <ins>577.5.-</ins> |
+|**Total**                                               |          <ins>577.5.-</ins> |
 
 
 **<ins>Vorgehen</ins>**
@@ -94,6 +94,15 @@ Um eine enger Beziehung und einen Wissensaustausch zu schaffen, wollen wir zu de
 
 
 ### Risikoanalyse
+
+|Risiko                  | Eintrittswarscheinlichkeit    | Schadenshöhe                |
+|------------------------|-------------------------------|-----------------------------|
+|Ungenaue Schätzunen 
+bezüglich des Arbeitsaufwandes   | `2`                   |                         `3` |
+|Server aufsetzen        | `1`                           |                         `3` |
+|Monitoring einrichten   | `2`                           |                         `2` |
+|Redstone-Konstruktion   | `2`                           |                         `4` |
+|Intro                   | `2`                           |                         `5` |
 
 
 
